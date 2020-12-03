@@ -11,9 +11,6 @@
     "yargs": ">=10.0.3"
   },
   "author": "Robin Moisson (https://github.com/robinmoisson)",
-  "contributors": [
-    "Aaron Coplan (https://github.com/AaronCoplan)"
-  ],
   "license": "MIT",
   "devDependencies": {},
   "scripts": {
