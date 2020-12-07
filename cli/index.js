@@ -29,7 +29,7 @@ const namedArgs = Yargs
           alias: 'title',
           type: 'string',
           describe: "Title for output HTML page",
-          default: 'Protected Website'
+          default: 'Welcome'
       })
       .option('i', {
           alias: 'instructions',
